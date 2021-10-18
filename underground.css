@@ -1,0 +1,141 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 665px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 913px;
+  height: 344px;
+  margin: 43px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 592px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 271px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 524px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 203px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 449px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 128px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 392px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 44px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px auto 20px 0;
+}.u-section-3 .u-sheet-1 {
+  min-height: 527px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 570px;
+  height: 469px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  width: 570px;
+  height: 471px;
+  margin: -469px 0 56px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 445px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 470px;
+    height: 387px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-top: -387px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 354px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 360px;
+    height: 296px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-top: -296px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 255px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 270px;
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 540px;
+    height: 446px;
+    margin-top: -222px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 8px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 170px;
+    height: 140px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 340px;
+    height: 281px;
+    margin-top: -140px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 122px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 41px 1px 55px;
+}
